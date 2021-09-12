@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Anik Biswas
-- 👀 I’m interested in things I like ha ha ha ha ha...
+- 👀 I’m interested in - the things I like...
 - 🌱 I’m currently learning many a things actually.
 - 💞️ I’m looking to collaborate on - Okay, hmmm... I don't know.
 - 📫 To contact, (anikbiswas[at]yandex.com) use it.
