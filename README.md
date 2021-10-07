@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Anik Biswas
-- 👀 I’m interested in - the things I like...
-- 🌱 I’m currently learning many a things actually.
-- 💞️ I’m looking to collaborate on - Okay, hmmm... I don't know.
-- 📫 To contact, (anikbiswas[at]yandex.com) use it.
+- 👀 I’m interested in open source projects
+- 🌱 I’m currently learning a lot of things
+- 💞️ I’m looking to collaborate on a FOSS project
+- 📫 To contact, mail me at anikbiswas@yandex.com
 
 <!---
 ani1001/ani1001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
