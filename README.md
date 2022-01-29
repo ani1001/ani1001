@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Anik Biswas
+- 👋 I’m Anik Biswas, an agriculturist
 - 👀 I’m interested in open source projects
-- 🌱 I’m currently learning a lot of things
-- 💞️ I’m looking to collaborate on a FOSS project
-- 📫 To contact, mail me at anikbiswas@yandex.com
+- 🌱 I’m currently learning a whole heap of things
+- 💞️ I’m looking for a project to waste time
+- 📫 To contact, mail me at anikbiswas[at]hotmail.com
 
 <!---
 ani1001/ani1001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
